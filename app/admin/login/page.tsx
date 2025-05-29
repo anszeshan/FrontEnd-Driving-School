@@ -99,11 +99,7 @@ export default function AdminLoginPage() {
               </Button>
             </form>
 
-            <div className="mt-6 text-center text-sm text-muted-foreground">
-              <p>For demo purposes, use:</p>
-              <p className="font-medium">Email: admin@fahrschulfinder.de</p>
-              <p className="font-medium">Password: admin123</p>
-            </div>
+
           </CardContent>
         </Card>
       </motion.div>

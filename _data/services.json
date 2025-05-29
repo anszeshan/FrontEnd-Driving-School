@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "5d725a4a7b292f5f8ceff789",
+    "name": "Basic Theory Course",
+    "description": "Comprehensive theory course covering all aspects of the driving test",
+    "category": "Theory",
+    "price": 300,
+    "duration": 1200,
+    "isAvailable": true,
+    "school": "5d713995b721c3bb38c1f5d0"
+  },
+  {
+    "_id": "5d725c84c4ded7bcb480eaa0",
+    "name": "Standard Driving Lessons",
+    "description": "Regular driving lessons with experienced instructors",
+    "category": "Practical",
+    "price": 45,
+    "duration": 45,
+    "isAvailable": true,
+    "school": "5d713995b721c3bb38c1f5d0"
+  },
+  {
+    "_id": "5d725cb9c4ded7bcb480eaa1",
+    "name": "Intensive Driving Course",
+    "description": "Complete your driving training in just 2 weeks with our intensive course",
+    "category": "Practical",
+    "price": 1200,
+    "duration": 4800,
+    "isAvailable": true,
+    "school": "5d713995b721c3bb38c1f5d0"
+  },
+  {
+    "_id": "5d725cd2c4ded7bcb480eaa2",
+    "name": "Exam Preparation",
+    "description": "Special lessons focused on preparing you for the driving test",
+    "category": "Exam Preparation",
+    "price": 60,
+    "duration": 90,
+    "isAvailable": true,
+    "school": "5d713995b721c3bb38c1f5d0"
+  },
+  {
+    "_id": "5d725ce8c4ded7bcb480eaa3",
+    "name": "Basic Theory Course",
+    "description": "Comprehensive theory course covering all aspects of the driving test",
+    "category": "Theory",
+    "price": 320,
+    "duration": 1200,
+    "isAvailable": true,
+    "school": "5d713a66ec8f2b88b8f830b8"
+  },
+  {
+    "_id": "5d725cfec4ded7bcb480eaa4",
+    "name": "Standard Driving Lessons",
+    "description": "Regular driving lessons with experienced instructors",
+    "category": "Practical",
+    "price": 50,
+    "duration": 45,
+    "isAvailable": true,
+    "school": "5d713a66ec8f2b88b8f830b8"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "5d7a514b5d2c12c7449be045",
+    "title": "Great experience!",
+    "text": "I passed my driving test on the first attempt thanks to the excellent instruction at Fahrschule Schmidt. The instructors were patient and thorough.",
+    "rating": 5,
+    "school": "5d713995b721c3bb38c1f5d0",
+    "user": "5d7a514b5d2c12c7449be044"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be046",
+    "title": "Good school but expensive",
+    "text": "The instruction was good, but I found the prices to be a bit high compared to other schools in the area.",
+    "rating": 4,
+    "school": "5d713995b721c3bb38c1f5d0",
+    "user": "5d7a514b5d2c12c7449be044"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be047",
+    "title": "Excellent theory classes",
+    "text": "The theory classes were very informative and well-structured. The instructor made complex topics easy to understand.",
+    "rating": 5,
+    "school": "5d713a66ec8f2b88b8f830b8",
+    "user": "5d7a514b5d2c12c7449be044"
+  }
+]
